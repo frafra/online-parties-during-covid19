@@ -12,3 +12,4 @@ A collection of games and tools to have fun with your friends and your family - 
 ## Games
 - [skribbl.io](https://skribbl.io/): free multiplayer drawing and guessing game
 - [Internel Scrabble Club](https://isc.ro/): board game for two players
+- [The Battle for Wesnoth](https://wesnoth.org/): an open source, turn-based strategy game with a high fantasy theme
