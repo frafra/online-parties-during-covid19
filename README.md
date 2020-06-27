@@ -11,6 +11,7 @@ A collection of games and tools to have fun with your friends and your family - 
 
 ## Games
 - [lichess.org](https://lichess.org/): opensource online chess server
+- [Point](https://pont.mattkeeter.com/): opensource online multiplayer board game (inspired by Qwirkle)
 - [skribbl.io](https://skribbl.io/): free multiplayer drawing and guessing game
 - [Internel Scrabble Club](https://isc.ro/): board game for two players
 - [The Battle for Wesnoth](https://wesnoth.org/): an open source, turn-based strategy game with a high fantasy theme
